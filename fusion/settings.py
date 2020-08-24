@@ -92,7 +92,7 @@ DATABASES = {
         'USER': 'jneto',
         'PASSWORD': '123qwe',
         'HOST': 'localhost',
-        'PORT': '1234',
+        'PORT': '5432',
     }
 }
 
