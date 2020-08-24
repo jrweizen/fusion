@@ -84,6 +84,7 @@ WSGI_APPLICATION = 'fusion.wsgi.application'
 #     }
 # }
 
+# Postgres
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
